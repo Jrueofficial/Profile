@@ -9,7 +9,7 @@ I'm a Software Engineering Student and Electrical Engineering Undergraduate who 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and CLOUD ENGINEERING.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects,internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer(Intern or Junior Level)
 
 
